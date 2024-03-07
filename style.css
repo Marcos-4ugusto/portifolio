@@ -14,6 +14,10 @@ ul{
     list-style: none;
     font-family: "Red Hat Display", sans-serif;
 }
+li{
+    display:inline-block;
+    margin-top: 10px;
+}
 main{
     font-family: "Red Hat Display", sans-serif;
 }
